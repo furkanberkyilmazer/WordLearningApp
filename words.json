@@ -1,0 +1,12 @@
+[
+    {"id": 1, "word": "the", "translation": "o", "known": false},
+    {"id": 2, "word": "be", "translation": "olmak", "known": false},
+    {"id": 3, "word": "to", "translation": "gitmek", "known": false},
+    {"id": 4, "word": "of", "translation": "nin", "known": false},
+    {"id": 5, "word": "and", "translation": "ve", "known": false},
+    {"id": 6, "word": "a", "translation": "bir", "known": false},
+    {"id": 7, "word": "in", "translation": "içinde", "known": false},
+    {"id": 8, "word": "that", "translation": "şu", "known": false},
+    {"id": 9, "word": "have", "translation": "sahip olmak", "known": false},
+    {"id": 10, "word": "I", "translation": "ben", "known": false}
+  ]
